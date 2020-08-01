@@ -1,6 +1,8 @@
+# Created on 31- Aug- 2020
+# Created By: Ashutosh Kamboj and Nandini Goyal
 
 import random
-from word import word_list
+from word import word_list   # The word file is already created to get the names of the elments to guess.
 
 
 
